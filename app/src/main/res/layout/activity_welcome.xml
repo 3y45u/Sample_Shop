@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".welcome"
+    android:orientation="vertical">
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/Shop"
+    android:onClick="shopping"
+    android:layout_gravity="center"
+    android:layout_marginTop="100dp"
+    android:layout_marginBottom="20dp"
+    android:id="@+id/but1"></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Count"
+        android:layout_gravity="center"
+        android:onClick="count_items"
+        android:layout_margin="20dp"
+        android:id="@+id/but2"></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Contact"
+        android:onClick="dailing"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:id="@+id/but3"></Button>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Back"
+        android:onClick="go_to_home"
+        android:layout_gravity="center"
+        android:id="@+id/but4"
+        android:layout_margin="20dp"></Button>
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/items_display"
+        ></EditText>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">site Web d achat</string>
+    <string name="Shop">boutique</string>
+    <string name="Count">compter</string>
+    <string name="Contact">contact</string>
+    <string name="Back">retour</string>
+    <string name="sign_up">s inscrire</string>
+    <string name="Done">terminé</string>
+    <string name="email">email</string>
+    <string name="phone_number">numéro de téléphone</string>
+    <string name="create_password">créer un mot de passe</string>
+    <string name="re_type_password">retaper le mot de passe</string>
+    <string name="user_name">Nom d utilisateur</string>
+</resources>

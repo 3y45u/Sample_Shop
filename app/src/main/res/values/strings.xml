@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shopping Website</string>
+    <string name="email">E-mail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_password">Create Password</string>
+    <string name="re_type_password">Re Type Password</string>
+    <string name="Shop">Shop</string>
+    <string name="Count">Count</string>
+    <string name="Contact">Contact</string>
+    <string name="Back">Back</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Done">Done</string>
+    <string name="user_name">User Name</string>
+</resources>
